@@ -4,6 +4,14 @@ Este sistema foi projetado para permitir a **consulta de dados de alunos e docen
 
 ---
 
+## 📊 Diagrama Arquitetura AWS
+
+<img width="779" height="746" alt="Captura de tela 2025-09-10 122439" src="https://github.com/user-attachments/assets/2184a75c-2e3d-4535-aa91-33933b8b36f0" />
+
+
+
+---
+
 ## 📌 Componentes
 
 - **Amazon EC2**  
